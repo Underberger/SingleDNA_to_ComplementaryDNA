@@ -1,4 +1,4 @@
-import pyperclip # needed module to copy mRNA sequence to clipboard
+import pyperclip # needed module to copy complementary DNA sequence to clipboard
 # User input DNA sequence
 try:
     DNA_sequence = input("Please enter the DNA sequence below: \n")
